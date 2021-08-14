@@ -13,6 +13,12 @@ $ cd static-getting-started
 $ liara deploy
 ```
 
+## Availabe Branches
+
+1.  [Adding liara.json file](https://github.com/liara-cloud/static-getting-started/tree/liaraJson)
+2.  [Enable Caching with liara_nginx.conf file](https://github.com/liara-cloud/static-getting-started/tree/nginxConfig)
+
+
 ## Documentation
 Read more on liara [static apps documentation
 ](https://docs.liara.ir/app-deploy/static/getting-started)
