@@ -1,14 +1,18 @@
-# Static getting started
+# static apps getting started
 
-Example of how running Static projects on Liara.
+Example of how deploy a simple static project on [liara](https://liara.ir).
 
-Read more on Liara docs: https://docs.liara.ir/app-deploy/static/getting-started
+## Deploying
 
+[Create New Static App](https://console.liara.ir/apps/create) & install the [Liara CLI](https://docs.liara.ir/cli/install)
+```bash
+$ git clone https://github.com/liara-cloud/static-getting-started # or clone your own fork
 
-## Running Locally
+$ cd static-getting-started
 
-```sh
-git clone https://github.com/liara-cloud/static-getting-started
-cd static-getting-started
-open index.html file in browser
+$ liara deploy
 ```
+
+## Documentation
+Read more on liara [static apps documentation
+](https://docs.liara.ir/app-deploy/static/getting-started)
